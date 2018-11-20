@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.2114780771/BATCH_BUILD/delimiter=;
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.2114780771/BATCH_BUILD/operation=append
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.2114780771/BATCH_BUILD/value=1
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.2114780771/IDF_PATH/delimiter=;
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.2114780771/IDF_PATH/operation=replace
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.2114780771/IDF_PATH/value=C\:\\msys32\\home\\melih\\esp\\esp-idf
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.2114780771/PATH/delimiter=;
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.2114780771/PATH/operation=replace
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.2114780771/PATH/value=${CYGWIN_HOME}\\bin;C\:/Program Files/Java/jre1.8.0_181/bin/server;C\:/Program Files/Java/jre1.8.0_181/bin;C\:/Program Files/Java/jre1.8.0_181/lib/amd64;C\:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C\:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C\:\\Windows\\system32;C\:\\Windows;C\:\\Windows\\System32\\Wbem;C\:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Program Files\\Intel\\WiFi\\bin\\;C\:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C\:\\Program Files\\PuTTY\\;C\:\\CooCox\\CoIDE\\gcc\\bin;C\:\\Program Files\\Git\\cmd;C\:\\Program Files\\Intel\\WiFi\\bin\\;C\:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C\:\\Users\\melih\\Desktop;C\:\\msys32\\usr\\bin;C\:\\msys32\\mingw32\\bin;C\:\\msys32\\opt\\xtensa-esp32-elf\\bin
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.2114780771/append=true
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.2114780771/appendContributed=true
