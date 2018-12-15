@@ -2,7 +2,7 @@
 ESP32 MQTT 0.96 INCH OLED DISPLAY DEMO
 ========================================
 
-Esp32 ile yazılan oled display için SSD1306 driver'ının yazılması için için üreticinin sağladığı 
+Esp32'ye eklenen oled display için SSD1306 driver'ının yazılması için üreticinin sağladığı 
 https://www.waveshare.com/wiki/0.96inch_OLED_(B) linkindeki kaynaklar kullanılmıştır.
 
 Display ile haberleşme I2C protokolü ile gerçekleştirilmiştir. Gelen display default olarak
